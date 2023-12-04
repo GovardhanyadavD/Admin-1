@@ -10,7 +10,7 @@
 
 clone the repo with
 <br> 
-$git clone https://github.com/Ranjan1501/Admin_UI.git
+$git clone https://github.com/GovardhanyadavD/Admin_UI.git
 
 install all the dependcies
 
